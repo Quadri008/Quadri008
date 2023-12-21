@@ -1,0 +1,13 @@
+.Okoro {
+  font-size: 15px;
+}
+button {
+  font: size 20px;
+  background-color:yellow ;
+  border: none;
+  cursor:pointer ;
+  height: 32px;
+  font-weight:100px ;
+  transition: opacity 0.15;
+  width: 64px; 
+}
